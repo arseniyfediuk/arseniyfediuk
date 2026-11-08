@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Arseniy Fediuk
 
-**Hardware Engineer | Electronics Student @ Lviv Polytechnic | C++ Developer**
+**Hardware Engineer | Electronics Student @ Lviv Polytechnic**
 
 📍 Based in Lviv, Ukraine.
 
@@ -14,8 +14,7 @@ I am an electronics undergraduate student bridging the gap between raw silicon a
 *   **Diagnostics:** Troubleshooting, diagnosing, and repairing consumer audio equipment, including vintage tape recorders.
 
 ### 💻 Software Engineering
-*   **Languages & Environments:** Native C++ development using the MinGW-w64 compiler suite via MSYS2.
-*   **Coding Philosophy:** I believe in clean, lightweight code. I build custom data-processing loops kept strictly at the bottom of the file using forward declarations, and I perform array mathematics natively without relying on unrequested external headers or automatic random number generator seeds.
+*   **Languages & Environments:** Basic knowledge of C++ development using the MinGW-w64 compiler suite via MSYS2.
 *   **Version Control:** Git, GitHub, Git Bash terminal commands.
 
 ## 🎓 Education & Certifications
